@@ -1,2 +1,2 @@
 # MMBasic
-Some programms written or being ported to MMBasic 
+Some programms written in MMBasic or being ported to it.
